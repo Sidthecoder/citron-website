@@ -23,3 +23,11 @@
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
+
+/*Container / Flexbox*/
+
+.container{
+    max-width:960px;
+    margin:0 auto;
+    width:80%;
+}

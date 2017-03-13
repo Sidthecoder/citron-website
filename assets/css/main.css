@@ -40,6 +40,12 @@
   font-family:Arial;
 }
 
+/* ABOUT */
+
+.about {
+    text-align:center;
+}
+
 /*Normal Settings*/
 
 body {
